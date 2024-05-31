@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Jogando Xvideos","Fazendo dinheiro","Money"];
+const statusMessages = ["Melhores produtos","By hoko.xpn and kzn.xp"];
 
 
 let currentIndex = 0;
